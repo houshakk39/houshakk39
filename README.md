@@ -9,7 +9,7 @@
 
 👯 **I’m looking to collaborate on**
 - Embedded systems projects (STM32, IoT, sensors, communication)
-- Electronic hardware & PCB design (KiCad, Altium)
+- Electronic hardware & PCB design (KiCad, Altium, ISIS Proteus)
 - ADAS, control systems, and energy-related projects
 
 🤝 **I’m looking for help with**
